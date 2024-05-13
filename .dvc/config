@@ -1,0 +1,8 @@
+[core]
+    remote = remote
+    autostage = false
+['remote "remote"']
+    url = s3://real-estate
+    endpointurl = http://192.168.0.129:9000
+    access_key_id = KNGpZjM83NBY8IpM8XY0
+    secret_access_key = iEG0CYF41Hjhye0z6pz63ra9Pigl0GXb8wFK2NVN

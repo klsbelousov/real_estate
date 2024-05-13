@@ -1614,13 +1614,13 @@ pgp = ["gpg"]
 
 [[package]]
 name = "dvc"
-version = "3.50.2"
+version = "3.50.1"
 description = "Git for data scientists - manage your code and data together"
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "dvc-3.50.2-py3-none-any.whl", hash = "sha256:fca38ee17c02f4a5450d71a36d4e8b72635b45fdfbb582892695eba9ba5690bc"},
-    {file = "dvc-3.50.2.tar.gz", hash = "sha256:b8e12d3521391ae839b8f38ea807d6f88699c570806f4bfdf4fff3733f87a1cc"},
+    {file = "dvc-3.50.1-py3-none-any.whl", hash = "sha256:c272d05d8d093564053132a2f41efbf22a3a0c8c0a67104cb25e3f483770f55c"},
+    {file = "dvc-3.50.1.tar.gz", hash = "sha256:97c92a530da38ea08f1cfad6ec7ad7ad1abf55887eb243d10b789123131616f9"},
 ]
 
 [package.dependencies]
@@ -6157,4 +6157,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "3.12.3"
-content-hash = "7dfb4cde2253c5245ebf97c0def779f0d10897f5f1f4b4e4de793f24a84fffe3"
+content-hash = "855a5df30c13c19b2c66406b98b227a88fda71fbe6a7e8b6a4642f55fffc1bb7"
