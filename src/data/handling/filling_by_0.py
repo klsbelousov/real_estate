@@ -22,4 +22,11 @@ def filling_by_0(dataframe: pd.DataFrame,
     dataframe.to_csv(f'/Users/klimbelousov/Documents/Projects/real_estate/data/interim/filled_by_0/filled_by_0_{name}.csv')
 
 if __name__ == '__main__':
-    filling_by_0()
+    
+    filling_by_0(pd.read_csv('/Users/klimbelousov/Documents/Projects/real_estate/data/interim/dropped_vals/dropped_values_train.csv'), 
+                 columns=['rooms_count', 'kitchen_area','living_area'], 
+                 name='train')
+    
+    filling_by_0(pd.read_csv('/Users/klimbelousov/Documents/Projects/real_estate/data/interim/dropped_vals/dropped_values_test.csv'), 
+                 columns=['rooms_count', 'kitchen_area','living_area'], 
+                 name='test')
