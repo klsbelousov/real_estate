@@ -1,0 +1,5 @@
+outs:
+- md5: b19f0777de862209d843a907a4fa2fc0
+  size: 666910
+  hash: md5
+  path: dropped_values_train.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: 6b9167a046d4b3b942c508ce99e22aac
+  size: 221499
+  hash: md5
+  path: dropped_values_test.csv
