@@ -1,0 +1,5 @@
+outs:
+- md5: e284cd92cc02876c4d8fdb484630de8d
+  size: 244579
+  hash: md5
+  path: binary_format_test.csv

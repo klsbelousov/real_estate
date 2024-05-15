@@ -1,0 +1,5 @@
+outs:
+- md5: 944ccf406ce27acc8bdaaf2b2dabdbfa
+  size: 706557
+  hash: md5
+  path: real_estate_train.csv

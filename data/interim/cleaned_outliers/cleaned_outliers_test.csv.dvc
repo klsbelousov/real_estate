@@ -1,0 +1,5 @@
+outs:
+- md5: 45eec81d0fe7e88f1a7753a7a82897cb
+  size: 618727
+  hash: md5
+  path: cleaned_outliers_test.csv

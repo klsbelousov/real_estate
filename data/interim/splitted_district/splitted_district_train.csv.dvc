@@ -1,0 +1,5 @@
+outs:
+- md5: a008386105911159138f3d865e552ed6
+  size: 747837
+  hash: md5
+  path: splitted_district_train.csv
