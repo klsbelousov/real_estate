@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/d491b02aa006426280417b7fe4dafa40/artifacts
+end_time: 1715860659467
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: d491b02aa006426280417b7fe4dafa40
+run_name: peaceful-toad-424
+run_uuid: d491b02aa006426280417b7fe4dafa40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860658318
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/d34f353d650f40e8971bc88c51126252/artifacts
+end_time: 1715860697401
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: d34f353d650f40e8971bc88c51126252
+run_name: worried-toad-850
+run_uuid: d34f353d650f40e8971bc88c51126252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860696490
+status: 3
+tags: []
+user_id: klimbelousov

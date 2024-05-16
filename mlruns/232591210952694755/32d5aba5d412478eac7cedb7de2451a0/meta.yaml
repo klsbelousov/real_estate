@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/32d5aba5d412478eac7cedb7de2451a0/artifacts
+end_time: 1715860693959
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 32d5aba5d412478eac7cedb7de2451a0
+run_name: auspicious-gull-266
+run_uuid: 32d5aba5d412478eac7cedb7de2451a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860692615
+status: 3
+tags: []
+user_id: klimbelousov

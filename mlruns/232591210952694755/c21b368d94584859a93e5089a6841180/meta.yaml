@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c21b368d94584859a93e5089a6841180/artifacts
+end_time: 1715860685094
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c21b368d94584859a93e5089a6841180
+run_name: unruly-pig-821
+run_uuid: c21b368d94584859a93e5089a6841180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860683421
+status: 3
+tags: []
+user_id: klimbelousov

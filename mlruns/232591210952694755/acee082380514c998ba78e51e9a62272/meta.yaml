@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/acee082380514c998ba78e51e9a62272/artifacts
+end_time: 1715860721696
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: acee082380514c998ba78e51e9a62272
+run_name: redolent-croc-677
+run_uuid: acee082380514c998ba78e51e9a62272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860720867
+status: 3
+tags: []
+user_id: klimbelousov

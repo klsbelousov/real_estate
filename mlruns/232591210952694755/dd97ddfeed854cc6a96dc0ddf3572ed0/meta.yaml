@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/dd97ddfeed854cc6a96dc0ddf3572ed0/artifacts
+end_time: 1715860785725
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: dd97ddfeed854cc6a96dc0ddf3572ed0
+run_name: mercurial-ape-286
+run_uuid: dd97ddfeed854cc6a96dc0ddf3572ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860783498
+status: 3
+tags: []
+user_id: klimbelousov

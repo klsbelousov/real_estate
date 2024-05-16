@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/5fe901f52aee4b77aed149e629f9d412/artifacts
+end_time: 1715860691421
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 5fe901f52aee4b77aed149e629f9d412
+run_name: auspicious-crow-790
+run_uuid: 5fe901f52aee4b77aed149e629f9d412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860690308
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/8dc3ffd8926a4a8e8f1c612478f9f0ff/artifacts
+end_time: 1715860649345
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 8dc3ffd8926a4a8e8f1c612478f9f0ff
+run_name: wise-crane-331
+run_uuid: 8dc3ffd8926a4a8e8f1c612478f9f0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860648585
+status: 3
+tags: []
+user_id: klimbelousov

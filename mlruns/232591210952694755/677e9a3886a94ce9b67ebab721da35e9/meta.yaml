@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/677e9a3886a94ce9b67ebab721da35e9/artifacts
+end_time: 1715860674527
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 677e9a3886a94ce9b67ebab721da35e9
+run_name: nervous-horse-79
+run_uuid: 677e9a3886a94ce9b67ebab721da35e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860672996
+status: 3
+tags: []
+user_id: klimbelousov

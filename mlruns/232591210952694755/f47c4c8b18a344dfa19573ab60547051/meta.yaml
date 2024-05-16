@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f47c4c8b18a344dfa19573ab60547051/artifacts
+end_time: 1715860662219
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f47c4c8b18a344dfa19573ab60547051
+run_name: polite-fox-202
+run_uuid: f47c4c8b18a344dfa19573ab60547051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860660612
+status: 3
+tags: []
+user_id: klimbelousov

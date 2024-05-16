@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/293f1f875483411cbdd0ed96baf11ad4/artifacts
+end_time: 1715860677471
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 293f1f875483411cbdd0ed96baf11ad4
+run_name: unruly-trout-987
+run_uuid: 293f1f875483411cbdd0ed96baf11ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860675667
+status: 3
+tags: []
+user_id: klimbelousov

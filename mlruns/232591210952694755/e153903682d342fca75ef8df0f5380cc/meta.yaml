@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/e153903682d342fca75ef8df0f5380cc/artifacts
+end_time: 1715860643770
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: e153903682d342fca75ef8df0f5380cc
+run_name: amusing-trout-545
+run_uuid: e153903682d342fca75ef8df0f5380cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860642370
+status: 3
+tags: []
+user_id: klimbelousov

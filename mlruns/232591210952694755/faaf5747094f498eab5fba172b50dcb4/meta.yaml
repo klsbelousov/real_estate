@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/faaf5747094f498eab5fba172b50dcb4/artifacts
+end_time: 1715860783483
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: faaf5747094f498eab5fba172b50dcb4
+run_name: treasured-colt-499
+run_uuid: faaf5747094f498eab5fba172b50dcb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860781210
+status: 3
+tags: []
+user_id: klimbelousov

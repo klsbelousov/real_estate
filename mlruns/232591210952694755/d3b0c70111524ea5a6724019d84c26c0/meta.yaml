@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/d3b0c70111524ea5a6724019d84c26c0/artifacts
+end_time: 1715860757283
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: d3b0c70111524ea5a6724019d84c26c0
+run_name: likeable-hare-217
+run_uuid: d3b0c70111524ea5a6724019d84c26c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860754868
+status: 3
+tags: []
+user_id: klimbelousov

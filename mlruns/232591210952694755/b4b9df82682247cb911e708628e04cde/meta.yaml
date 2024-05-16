@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/b4b9df82682247cb911e708628e04cde/artifacts
+end_time: 1715860719862
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: b4b9df82682247cb911e708628e04cde
+run_name: big-fish-324
+run_uuid: b4b9df82682247cb911e708628e04cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860718835
+status: 3
+tags: []
+user_id: klimbelousov

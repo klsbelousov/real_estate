@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/eb563eab9ee140f1b4a9eae8678e5202/artifacts
+end_time: 1715860653767
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: eb563eab9ee140f1b4a9eae8678e5202
+run_name: flawless-calf-479
+run_uuid: eb563eab9ee140f1b4a9eae8678e5202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860652899
+status: 3
+tags: []
+user_id: klimbelousov

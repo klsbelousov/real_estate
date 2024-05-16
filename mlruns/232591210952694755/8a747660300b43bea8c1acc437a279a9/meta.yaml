@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/8a747660300b43bea8c1acc437a279a9/artifacts
+end_time: 1715860669512
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 8a747660300b43bea8c1acc437a279a9
+run_name: traveling-shad-954
+run_uuid: 8a747660300b43bea8c1acc437a279a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860667605
+status: 3
+tags: []
+user_id: klimbelousov

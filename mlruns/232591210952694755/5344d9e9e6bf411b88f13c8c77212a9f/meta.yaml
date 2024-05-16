@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/5344d9e9e6bf411b88f13c8c77212a9f/artifacts
+end_time: 1715860762003
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 5344d9e9e6bf411b88f13c8c77212a9f
+run_name: fun-steed-818
+run_uuid: 5344d9e9e6bf411b88f13c8c77212a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860759691
+status: 3
+tags: []
+user_id: klimbelousov

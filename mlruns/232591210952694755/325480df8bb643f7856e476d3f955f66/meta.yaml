@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/325480df8bb643f7856e476d3f955f66/artifacts
+end_time: 1715860725042
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 325480df8bb643f7856e476d3f955f66
+run_name: stylish-gnat-811
+run_uuid: 325480df8bb643f7856e476d3f955f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860722756
+status: 3
+tags: []
+user_id: klimbelousov

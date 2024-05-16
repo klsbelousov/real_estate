@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/d49f0e036ca64ade810aa2b178504b24/artifacts
+end_time: 1715860770694
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: d49f0e036ca64ade810aa2b178504b24
+run_name: bedecked-kit-595
+run_uuid: d49f0e036ca64ade810aa2b178504b24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860768299
+status: 3
+tags: []
+user_id: klimbelousov

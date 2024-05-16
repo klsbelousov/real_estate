@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0dbe950ade4345fca9967e108c85c04f/artifacts
+end_time: 1715860743381
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0dbe950ade4345fca9967e108c85c04f
+run_name: abrasive-worm-626
+run_uuid: 0dbe950ade4345fca9967e108c85c04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860742495
+status: 3
+tags: []
+user_id: klimbelousov

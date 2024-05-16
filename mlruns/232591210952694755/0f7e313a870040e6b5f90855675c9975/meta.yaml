@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0f7e313a870040e6b5f90855675c9975/artifacts
+end_time: 1715860702019
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0f7e313a870040e6b5f90855675c9975
+run_name: rogue-dog-447
+run_uuid: 0f7e313a870040e6b5f90855675c9975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860700986
+status: 3
+tags: []
+user_id: klimbelousov

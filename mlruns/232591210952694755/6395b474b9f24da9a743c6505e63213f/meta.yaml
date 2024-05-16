@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6395b474b9f24da9a743c6505e63213f/artifacts
+end_time: 1715860658312
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6395b474b9f24da9a743c6505e63213f
+run_name: charming-bug-817
+run_uuid: 6395b474b9f24da9a743c6505e63213f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860656960
+status: 3
+tags: []
+user_id: klimbelousov

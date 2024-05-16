@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/daf46511aaf744ceae01512f838b1b9d/artifacts
+end_time: 1715860702877
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: daf46511aaf744ceae01512f838b1b9d
+run_name: unique-asp-817
+run_uuid: daf46511aaf744ceae01512f838b1b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860702030
+status: 3
+tags: []
+user_id: klimbelousov

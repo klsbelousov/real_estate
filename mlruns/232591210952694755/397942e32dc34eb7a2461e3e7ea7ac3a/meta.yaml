@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/397942e32dc34eb7a2461e3e7ea7ac3a/artifacts
+end_time: 1715860710815
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 397942e32dc34eb7a2461e3e7ea7ac3a
+run_name: amazing-bass-732
+run_uuid: 397942e32dc34eb7a2461e3e7ea7ac3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860710083
+status: 3
+tags: []
+user_id: klimbelousov

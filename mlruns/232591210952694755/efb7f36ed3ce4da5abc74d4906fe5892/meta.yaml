@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/efb7f36ed3ce4da5abc74d4906fe5892/artifacts
+end_time: 1715860709117
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: efb7f36ed3ce4da5abc74d4906fe5892
+run_name: flawless-swan-437
+run_uuid: efb7f36ed3ce4da5abc74d4906fe5892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860708278
+status: 3
+tags: []
+user_id: klimbelousov

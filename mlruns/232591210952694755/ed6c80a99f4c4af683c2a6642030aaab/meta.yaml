@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ed6c80a99f4c4af683c2a6642030aaab/artifacts
+end_time: 1715860705496
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ed6c80a99f4c4af683c2a6642030aaab
+run_name: popular-duck-167
+run_uuid: ed6c80a99f4c4af683c2a6642030aaab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860704661
+status: 3
+tags: []
+user_id: klimbelousov

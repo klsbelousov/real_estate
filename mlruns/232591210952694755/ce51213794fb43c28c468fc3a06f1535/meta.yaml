@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ce51213794fb43c28c468fc3a06f1535/artifacts
+end_time: 1715860700975
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ce51213794fb43c28c468fc3a06f1535
+run_name: thundering-squid-863
+run_uuid: ce51213794fb43c28c468fc3a06f1535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860699986
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/4e4d7cf13b3f4d37a876877e95ba8748/artifacts
+end_time: 1715860682417
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 4e4d7cf13b3f4d37a876877e95ba8748
+run_name: enchanting-swan-925
+run_uuid: 4e4d7cf13b3f4d37a876877e95ba8748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860680341
+status: 3
+tags: []
+user_id: klimbelousov

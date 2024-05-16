@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/98ff208e29e140eaab647ffd391807bd/artifacts
+end_time: 1715860664231
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 98ff208e29e140eaab647ffd391807bd
+run_name: burly-rook-384
+run_uuid: 98ff208e29e140eaab647ffd391807bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860662232
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/3516ec0f96314ee88426a94585235071/artifacts
+end_time: 1715860642359
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 3516ec0f96314ee88426a94585235071
+run_name: amazing-doe-55
+run_uuid: 3516ec0f96314ee88426a94585235071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860641560
+status: 3
+tags: []
+user_id: klimbelousov

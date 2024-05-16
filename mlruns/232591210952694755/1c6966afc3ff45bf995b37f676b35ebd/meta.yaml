@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/1c6966afc3ff45bf995b37f676b35ebd/artifacts
+end_time: 1715860764122
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 1c6966afc3ff45bf995b37f676b35ebd
+run_name: agreeable-fly-665
+run_uuid: 1c6966afc3ff45bf995b37f676b35ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860762018
+status: 3
+tags: []
+user_id: klimbelousov

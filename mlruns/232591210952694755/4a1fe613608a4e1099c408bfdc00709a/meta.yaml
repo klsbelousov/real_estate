@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/4a1fe613608a4e1099c408bfdc00709a/artifacts
+end_time: 1715860720854
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 4a1fe613608a4e1099c408bfdc00709a
+run_name: chill-cat-680
+run_uuid: 4a1fe613608a4e1099c408bfdc00709a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860719875
+status: 3
+tags: []
+user_id: klimbelousov

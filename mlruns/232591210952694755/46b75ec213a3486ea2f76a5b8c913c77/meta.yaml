@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/46b75ec213a3486ea2f76a5b8c913c77/artifacts
+end_time: 1715860740534
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 46b75ec213a3486ea2f76a5b8c913c77
+run_name: respected-squid-779
+run_uuid: 46b75ec213a3486ea2f76a5b8c913c77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860739483
+status: 3
+tags: []
+user_id: klimbelousov

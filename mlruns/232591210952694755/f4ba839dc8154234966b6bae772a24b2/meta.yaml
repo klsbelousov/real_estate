@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f4ba839dc8154234966b6bae772a24b2/artifacts
+end_time: 1715860776738
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f4ba839dc8154234966b6bae772a24b2
+run_name: dapper-gnat-659
+run_uuid: f4ba839dc8154234966b6bae772a24b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860775821
+status: 3
+tags: []
+user_id: klimbelousov

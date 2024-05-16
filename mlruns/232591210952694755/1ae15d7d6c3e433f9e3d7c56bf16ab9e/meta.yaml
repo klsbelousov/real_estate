@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/1ae15d7d6c3e433f9e3d7c56bf16ab9e/artifacts
+end_time: 1715860747688
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 1ae15d7d6c3e433f9e3d7c56bf16ab9e
+run_name: zealous-fawn-564
+run_uuid: 1ae15d7d6c3e433f9e3d7c56bf16ab9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860745473
+status: 3
+tags: []
+user_id: klimbelousov

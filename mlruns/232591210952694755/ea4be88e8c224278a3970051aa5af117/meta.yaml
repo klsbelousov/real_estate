@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ea4be88e8c224278a3970051aa5af117/artifacts
+end_time: 1715860733800
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ea4be88e8c224278a3970051aa5af117
+run_name: sincere-mare-126
+run_uuid: ea4be88e8c224278a3970051aa5af117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860731581
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/5795fa266f224a2d9340c2eec98ae4c8/artifacts
+end_time: 1715860714536
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 5795fa266f224a2d9340c2eec98ae4c8
+run_name: puzzled-horse-359
+run_uuid: 5795fa266f224a2d9340c2eec98ae4c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860713719
+status: 3
+tags: []
+user_id: klimbelousov

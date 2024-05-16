@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/1ab15a620ab04f9e9d6db5361b5dbf2a/artifacts
+end_time: 1715860648576
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 1ab15a620ab04f9e9d6db5361b5dbf2a
+run_name: intrigued-colt-746
+run_uuid: 1ab15a620ab04f9e9d6db5361b5dbf2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860646688
+status: 3
+tags: []
+user_id: klimbelousov

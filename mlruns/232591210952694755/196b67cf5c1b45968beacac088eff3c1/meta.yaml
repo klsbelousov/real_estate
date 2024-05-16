@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/196b67cf5c1b45968beacac088eff3c1/artifacts
+end_time: 1715860656948
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 196b67cf5c1b45968beacac088eff3c1
+run_name: powerful-vole-574
+run_uuid: 196b67cf5c1b45968beacac088eff3c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860655334
+status: 3
+tags: []
+user_id: klimbelousov

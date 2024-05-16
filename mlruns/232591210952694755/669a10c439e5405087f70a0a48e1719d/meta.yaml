@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/669a10c439e5405087f70a0a48e1719d/artifacts
+end_time: 1715860718821
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 669a10c439e5405087f70a0a48e1719d
+run_name: sincere-deer-720
+run_uuid: 669a10c439e5405087f70a0a48e1719d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860717886
+status: 3
+tags: []
+user_id: klimbelousov

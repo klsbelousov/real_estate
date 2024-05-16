@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/3b316a4b4f13434f89702e3010044a40/artifacts
+end_time: 1715860644769
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 3b316a4b4f13434f89702e3010044a40
+run_name: illustrious-perch-82
+run_uuid: 3b316a4b4f13434f89702e3010044a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860643780
+status: 3
+tags: []
+user_id: klimbelousov

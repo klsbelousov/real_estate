@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/828f6fcb27d9449bb3e19c53df248c52/artifacts
+end_time: 1715860759676
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 828f6fcb27d9449bb3e19c53df248c52
+run_name: merciful-crab-349
+run_uuid: 828f6fcb27d9449bb3e19c53df248c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860757300
+status: 3
+tags: []
+user_id: klimbelousov

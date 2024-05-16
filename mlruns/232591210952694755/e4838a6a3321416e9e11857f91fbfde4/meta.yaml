@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/e4838a6a3321416e9e11857f91fbfde4/artifacts
+end_time: 1715860612135
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: e4838a6a3321416e9e11857f91fbfde4
+run_name: caring-penguin-421
+run_uuid: e4838a6a3321416e9e11857f91fbfde4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860608118
+status: 4
+tags: []
+user_id: klimbelousov

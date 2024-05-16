@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/dcc2dfdb450b43bd9175c318e38c65a4/artifacts
+end_time: 1715860716097
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: dcc2dfdb450b43bd9175c318e38c65a4
+run_name: burly-croc-597
+run_uuid: dcc2dfdb450b43bd9175c318e38c65a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860714549
+status: 3
+tags: []
+user_id: klimbelousov

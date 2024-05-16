@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/eae4c3faba6340a0b1ccfc16fbc8cd52/artifacts
+end_time: 1715860706567
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: eae4c3faba6340a0b1ccfc16fbc8cd52
+run_name: bustling-gnat-679
+run_uuid: eae4c3faba6340a0b1ccfc16fbc8cd52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860705507
+status: 3
+tags: []
+user_id: klimbelousov

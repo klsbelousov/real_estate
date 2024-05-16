@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/198b57d7cbab4f6cbe3498db7e588975/artifacts
+end_time: 1715860672987
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 198b57d7cbab4f6cbe3498db7e588975
+run_name: able-roo-768
+run_uuid: 198b57d7cbab4f6cbe3498db7e588975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860671293
+status: 3
+tags: []
+user_id: klimbelousov

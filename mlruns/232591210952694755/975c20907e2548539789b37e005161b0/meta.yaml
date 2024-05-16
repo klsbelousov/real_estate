@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/975c20907e2548539789b37e005161b0/artifacts
+end_time: 1715860651538
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 975c20907e2548539789b37e005161b0
+run_name: colorful-shrimp-725
+run_uuid: 975c20907e2548539789b37e005161b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860649355
+status: 3
+tags: []
+user_id: klimbelousov

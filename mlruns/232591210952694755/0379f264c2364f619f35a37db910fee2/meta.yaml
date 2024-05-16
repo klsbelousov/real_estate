@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0379f264c2364f619f35a37db910fee2/artifacts
+end_time: 1715860750019
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0379f264c2364f619f35a37db910fee2
+run_name: valuable-fowl-13
+run_uuid: 0379f264c2364f619f35a37db910fee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860747702
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a94c74c755294c41a187b1fd9beb8543/artifacts
+end_time: 1715860772559
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a94c74c755294c41a187b1fd9beb8543
+run_name: glamorous-whale-995
+run_uuid: a94c74c755294c41a187b1fd9beb8543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860770707
+status: 3
+tags: []
+user_id: klimbelousov

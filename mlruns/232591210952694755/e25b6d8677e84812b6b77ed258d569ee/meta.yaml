@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/e25b6d8677e84812b6b77ed258d569ee/artifacts
+end_time: 1715860689244
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: e25b6d8677e84812b6b77ed258d569ee
+run_name: righteous-flea-936
+run_uuid: e25b6d8677e84812b6b77ed258d569ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860688430
+status: 3
+tags: []
+user_id: klimbelousov

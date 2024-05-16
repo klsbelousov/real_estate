@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a90b31628d9844e489d7e6c2d40604fe/artifacts
+end_time: 1715860678711
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a90b31628d9844e489d7e6c2d40604fe
+run_name: able-fish-853
+run_uuid: a90b31628d9844e489d7e6c2d40604fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715860677483
+status: 3
+tags: []
+user_id: klimbelousov
