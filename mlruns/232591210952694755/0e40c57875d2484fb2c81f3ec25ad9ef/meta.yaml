@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0e40c57875d2484fb2c81f3ec25ad9ef/artifacts
+end_time: 1715866467610
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0e40c57875d2484fb2c81f3ec25ad9ef
+run_name: melodic-slug-932
+run_uuid: 0e40c57875d2484fb2c81f3ec25ad9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866465970
+status: 3
+tags: []
+user_id: klimbelousov

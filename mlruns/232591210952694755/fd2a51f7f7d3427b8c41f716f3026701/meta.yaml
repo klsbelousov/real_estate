@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/fd2a51f7f7d3427b8c41f716f3026701/artifacts
+end_time: 1715865235103
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: fd2a51f7f7d3427b8c41f716f3026701
+run_name: bright-fawn-451
+run_uuid: fd2a51f7f7d3427b8c41f716f3026701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865233067
+status: 3
+tags: []
+user_id: klimbelousov

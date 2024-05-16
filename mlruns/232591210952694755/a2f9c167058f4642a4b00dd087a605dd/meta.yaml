@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a2f9c167058f4642a4b00dd087a605dd/artifacts
+end_time: 1715866483700
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a2f9c167058f4642a4b00dd087a605dd
+run_name: capricious-calf-726
+run_uuid: a2f9c167058f4642a4b00dd087a605dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866480807
+status: 3
+tags: []
+user_id: klimbelousov

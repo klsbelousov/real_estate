@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/edc67fa6f5b64a179d5a8a1445b3ca6a/artifacts
+end_time: 1715865663980
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: edc67fa6f5b64a179d5a8a1445b3ca6a
+run_name: sincere-bug-930
+run_uuid: edc67fa6f5b64a179d5a8a1445b3ca6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865662536
+status: 3
+tags: []
+user_id: klimbelousov

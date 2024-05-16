@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/abf7ed50e568423b8960567eee8a9355/artifacts
+end_time: 1715866155892
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: abf7ed50e568423b8960567eee8a9355
+run_name: kindly-eel-941
+run_uuid: abf7ed50e568423b8960567eee8a9355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866152958
+status: 3
+tags: []
+user_id: klimbelousov

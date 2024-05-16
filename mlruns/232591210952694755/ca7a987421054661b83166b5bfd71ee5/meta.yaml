@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ca7a987421054661b83166b5bfd71ee5/artifacts
+end_time: 1715865688682
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ca7a987421054661b83166b5bfd71ee5
+run_name: resilient-moose-134
+run_uuid: ca7a987421054661b83166b5bfd71ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865686569
+status: 3
+tags: []
+user_id: klimbelousov

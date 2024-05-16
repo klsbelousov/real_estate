@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/58a0bb615e3143d1a88087c2d66f7293/artifacts
+end_time: 1715866475401
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 58a0bb615e3143d1a88087c2d66f7293
+run_name: casual-crow-129
+run_uuid: 58a0bb615e3143d1a88087c2d66f7293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866472623
+status: 3
+tags: []
+user_id: klimbelousov

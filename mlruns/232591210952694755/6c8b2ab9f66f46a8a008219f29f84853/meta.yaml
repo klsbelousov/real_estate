@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6c8b2ab9f66f46a8a008219f29f84853/artifacts
+end_time: 1715865713622
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6c8b2ab9f66f46a8a008219f29f84853
+run_name: sedate-penguin-432
+run_uuid: 6c8b2ab9f66f46a8a008219f29f84853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865711994
+status: 3
+tags: []
+user_id: klimbelousov

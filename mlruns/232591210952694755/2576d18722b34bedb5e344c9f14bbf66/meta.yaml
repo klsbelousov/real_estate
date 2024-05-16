@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/2576d18722b34bedb5e344c9f14bbf66/artifacts
+end_time: 1715866445517
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 2576d18722b34bedb5e344c9f14bbf66
+run_name: wise-ram-611
+run_uuid: 2576d18722b34bedb5e344c9f14bbf66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866442871
+status: 3
+tags: []
+user_id: klimbelousov

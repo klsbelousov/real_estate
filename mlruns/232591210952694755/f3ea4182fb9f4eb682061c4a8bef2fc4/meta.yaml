@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f3ea4182fb9f4eb682061c4a8bef2fc4/artifacts
+end_time: 1715866184478
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f3ea4182fb9f4eb682061c4a8bef2fc4
+run_name: rambunctious-doe-15
+run_uuid: f3ea4182fb9f4eb682061c4a8bef2fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866182096
+status: 3
+tags: []
+user_id: klimbelousov

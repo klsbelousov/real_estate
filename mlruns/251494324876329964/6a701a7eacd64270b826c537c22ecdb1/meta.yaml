@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/251494324876329964/6a701a7eacd64270b826c537c22ecdb1/artifacts
+end_time: 1715866646075
+entry_point_name: ''
+experiment_id: '251494324876329964'
+lifecycle_stage: active
+run_id: 6a701a7eacd64270b826c537c22ecdb1
+run_name: gregarious-fawn-568
+run_uuid: 6a701a7eacd64270b826c537c22ecdb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866638976
+status: 3
+tags: []
+user_id: klimbelousov

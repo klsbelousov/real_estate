@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6cd90621495a49ffb5f402b8678acaa4/artifacts
+end_time: 1715866115796
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6cd90621495a49ffb5f402b8678acaa4
+run_name: resilient-colt-491
+run_uuid: 6cd90621495a49ffb5f402b8678acaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866113828
+status: 3
+tags: []
+user_id: klimbelousov

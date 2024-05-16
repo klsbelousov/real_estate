@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/5c0954f880804b059813caab1141f894/artifacts
+end_time: 1715865295759
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 5c0954f880804b059813caab1141f894
+run_name: inquisitive-boar-694
+run_uuid: 5c0954f880804b059813caab1141f894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865293506
+status: 3
+tags: []
+user_id: klimbelousov

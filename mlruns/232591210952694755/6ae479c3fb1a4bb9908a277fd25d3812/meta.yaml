@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6ae479c3fb1a4bb9908a277fd25d3812/artifacts
+end_time: 1715865389362
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6ae479c3fb1a4bb9908a277fd25d3812
+run_name: resilient-smelt-436
+run_uuid: 6ae479c3fb1a4bb9908a277fd25d3812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865386928
+status: 3
+tags: []
+user_id: klimbelousov

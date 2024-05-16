@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/15d1302a43644fa49cd2ede323836cce/artifacts
+end_time: 1715865680594
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 15d1302a43644fa49cd2ede323836cce
+run_name: capricious-skunk-706
+run_uuid: 15d1302a43644fa49cd2ede323836cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865678310
+status: 3
+tags: []
+user_id: klimbelousov

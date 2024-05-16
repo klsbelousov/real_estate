@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/94de9de1bef1497e8c957dfdd2920440/artifacts
+end_time: 1715865264975
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 94de9de1bef1497e8c957dfdd2920440
+run_name: amazing-gnat-607
+run_uuid: 94de9de1bef1497e8c957dfdd2920440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865263279
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/72b7b402635b4700b7392271c6c6e983/artifacts
+end_time: 1715866133769
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 72b7b402635b4700b7392271c6c6e983
+run_name: wistful-crow-560
+run_uuid: 72b7b402635b4700b7392271c6c6e983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866130940
+status: 3
+tags: []
+user_id: klimbelousov

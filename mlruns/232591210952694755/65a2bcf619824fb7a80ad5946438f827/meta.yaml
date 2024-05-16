@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/65a2bcf619824fb7a80ad5946438f827/artifacts
+end_time: 1715865279296
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 65a2bcf619824fb7a80ad5946438f827
+run_name: serious-cow-344
+run_uuid: 65a2bcf619824fb7a80ad5946438f827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865277305
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/012c8d75d2434feb9902173e78793bce/artifacts
+end_time: 1715865274930
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 012c8d75d2434feb9902173e78793bce
+run_name: exultant-bear-522
+run_uuid: 012c8d75d2434feb9902173e78793bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865272799
+status: 3
+tags: []
+user_id: klimbelousov

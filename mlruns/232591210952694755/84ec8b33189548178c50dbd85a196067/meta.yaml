@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/84ec8b33189548178c50dbd85a196067/artifacts
+end_time: 1715866460912
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 84ec8b33189548178c50dbd85a196067
+run_name: melodic-stoat-817
+run_uuid: 84ec8b33189548178c50dbd85a196067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866458354
+status: 3
+tags: []
+user_id: klimbelousov

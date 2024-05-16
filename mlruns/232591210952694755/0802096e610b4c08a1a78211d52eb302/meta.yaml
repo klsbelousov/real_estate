@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0802096e610b4c08a1a78211d52eb302/artifacts
+end_time: 1715865258978
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0802096e610b4c08a1a78211d52eb302
+run_name: intrigued-sponge-306
+run_uuid: 0802096e610b4c08a1a78211d52eb302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865256734
+status: 3
+tags: []
+user_id: klimbelousov

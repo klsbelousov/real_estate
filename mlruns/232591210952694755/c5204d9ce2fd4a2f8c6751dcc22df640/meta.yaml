@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c5204d9ce2fd4a2f8c6751dcc22df640/artifacts
+end_time: 1715865667267
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c5204d9ce2fd4a2f8c6751dcc22df640
+run_name: amusing-grouse-780
+run_uuid: c5204d9ce2fd4a2f8c6751dcc22df640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865666458
+status: 3
+tags: []
+user_id: klimbelousov

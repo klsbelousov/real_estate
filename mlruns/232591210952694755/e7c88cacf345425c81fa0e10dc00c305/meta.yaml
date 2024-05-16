@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/e7c88cacf345425c81fa0e10dc00c305/artifacts
+end_time: 1715865326357
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: e7c88cacf345425c81fa0e10dc00c305
+run_name: traveling-auk-69
+run_uuid: e7c88cacf345425c81fa0e10dc00c305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865323966
+status: 3
+tags: []
+user_id: klimbelousov

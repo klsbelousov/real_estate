@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/e693efbb85d44fa3aeaad0bbfbb834da/artifacts
+end_time: 1715866458344
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: e693efbb85d44fa3aeaad0bbfbb834da
+run_name: amazing-skink-527
+run_uuid: e693efbb85d44fa3aeaad0bbfbb834da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866456108
+status: 3
+tags: []
+user_id: klimbelousov

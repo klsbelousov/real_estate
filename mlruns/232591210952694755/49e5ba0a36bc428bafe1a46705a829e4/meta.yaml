@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/49e5ba0a36bc428bafe1a46705a829e4/artifacts
+end_time: 1715866087533
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 49e5ba0a36bc428bafe1a46705a829e4
+run_name: zealous-smelt-203
+run_uuid: 49e5ba0a36bc428bafe1a46705a829e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866086267
+status: 3
+tags: []
+user_id: klimbelousov

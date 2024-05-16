@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/251494324876329964/554b31d306ec4887943daa0406c2d195/artifacts
+end_time: 1715866918475
+entry_point_name: ''
+experiment_id: '251494324876329964'
+lifecycle_stage: active
+run_id: 554b31d306ec4887943daa0406c2d195
+run_name: flawless-gnat-864
+run_uuid: 554b31d306ec4887943daa0406c2d195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866911435
+status: 3
+tags: []
+user_id: klimbelousov

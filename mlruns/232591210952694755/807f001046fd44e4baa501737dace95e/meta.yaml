@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/807f001046fd44e4baa501737dace95e/artifacts
+end_time: 1715865287211
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 807f001046fd44e4baa501737dace95e
+run_name: enchanting-snake-969
+run_uuid: 807f001046fd44e4baa501737dace95e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865284814
+status: 3
+tags: []
+user_id: klimbelousov

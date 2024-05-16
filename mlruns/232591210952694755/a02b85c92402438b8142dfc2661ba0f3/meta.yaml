@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a02b85c92402438b8142dfc2661ba0f3/artifacts
+end_time: 1715866100999
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a02b85c92402438b8142dfc2661ba0f3
+run_name: vaunted-horse-922
+run_uuid: a02b85c92402438b8142dfc2661ba0f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866098603
+status: 3
+tags: []
+user_id: klimbelousov

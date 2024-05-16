@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/81ba654961cb4907ae56464db7eb927c/artifacts
+end_time: 1715865229604
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 81ba654961cb4907ae56464db7eb927c
+run_name: bemused-lynx-368
+run_uuid: 81ba654961cb4907ae56464db7eb927c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865227495
+status: 3
+tags: []
+user_id: klimbelousov

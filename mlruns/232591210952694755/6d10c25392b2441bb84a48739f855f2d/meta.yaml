@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6d10c25392b2441bb84a48739f855f2d/artifacts
+end_time: 1715865261003
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6d10c25392b2441bb84a48739f855f2d
+run_name: gregarious-goose-354
+run_uuid: 6d10c25392b2441bb84a48739f855f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865258990
+status: 3
+tags: []
+user_id: klimbelousov

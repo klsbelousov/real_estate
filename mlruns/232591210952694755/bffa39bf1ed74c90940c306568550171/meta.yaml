@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/bffa39bf1ed74c90940c306568550171/artifacts
+end_time: 1715865211277
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: bffa39bf1ed74c90940c306568550171
+run_name: stately-trout-730
+run_uuid: bffa39bf1ed74c90940c306568550171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865210256
+status: 3
+tags: []
+user_id: klimbelousov

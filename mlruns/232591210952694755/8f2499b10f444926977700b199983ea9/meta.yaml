@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/8f2499b10f444926977700b199983ea9/artifacts
+end_time: 1715865219333
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 8f2499b10f444926977700b199983ea9
+run_name: languid-shrike-1
+run_uuid: 8f2499b10f444926977700b199983ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865217702
+status: 3
+tags: []
+user_id: klimbelousov

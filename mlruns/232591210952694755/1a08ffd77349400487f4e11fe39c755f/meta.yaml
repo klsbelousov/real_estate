@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/1a08ffd77349400487f4e11fe39c755f/artifacts
+end_time: 1715865678287
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 1a08ffd77349400487f4e11fe39c755f
+run_name: nebulous-gnat-121
+run_uuid: 1a08ffd77349400487f4e11fe39c755f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865675645
+status: 3
+tags: []
+user_id: klimbelousov

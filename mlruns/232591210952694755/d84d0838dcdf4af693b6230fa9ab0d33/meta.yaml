@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/d84d0838dcdf4af693b6230fa9ab0d33/artifacts
+end_time: 1715865699046
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: d84d0838dcdf4af693b6230fa9ab0d33
+run_name: unruly-roo-229
+run_uuid: d84d0838dcdf4af693b6230fa9ab0d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865696749
+status: 3
+tags: []
+user_id: klimbelousov

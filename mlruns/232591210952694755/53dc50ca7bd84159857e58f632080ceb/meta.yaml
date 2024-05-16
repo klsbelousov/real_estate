@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/53dc50ca7bd84159857e58f632080ceb/artifacts
+end_time: 1715866113812
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 53dc50ca7bd84159857e58f632080ceb
+run_name: crawling-eel-835
+run_uuid: 53dc50ca7bd84159857e58f632080ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866111109
+status: 3
+tags: []
+user_id: klimbelousov

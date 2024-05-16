@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6d209c98a5d6428583814f39a8dcfb2b/artifacts
+end_time: 1715865251845
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6d209c98a5d6428583814f39a8dcfb2b
+run_name: industrious-zebra-18
+run_uuid: 6d209c98a5d6428583814f39a8dcfb2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865249665
+status: 3
+tags: []
+user_id: klimbelousov

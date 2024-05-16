@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ac799a4041e64dc091952b52a7a117d4/artifacts
+end_time: 1715866097232
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ac799a4041e64dc091952b52a7a117d4
+run_name: enthused-asp-206
+run_uuid: ac799a4041e64dc091952b52a7a117d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866095682
+status: 3
+tags: []
+user_id: klimbelousov

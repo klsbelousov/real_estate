@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/3a53530670ed4383969b912c8c8fcac3/artifacts
+end_time: 1715865665590
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 3a53530670ed4383969b912c8c8fcac3
+run_name: victorious-crab-729
+run_uuid: 3a53530670ed4383969b912c8c8fcac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865663993
+status: 3
+tags: []
+user_id: klimbelousov

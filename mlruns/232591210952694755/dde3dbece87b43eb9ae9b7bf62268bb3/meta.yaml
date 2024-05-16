@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/dde3dbece87b43eb9ae9b7bf62268bb3/artifacts
+end_time: 1715865293492
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: dde3dbece87b43eb9ae9b7bf62268bb3
+run_name: bald-hog-189
+run_uuid: dde3dbece87b43eb9ae9b7bf62268bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865291222
+status: 3
+tags: []
+user_id: klimbelousov

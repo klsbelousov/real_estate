@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/72204080ff99431c912480797fea93b4/artifacts
+end_time: 1715865337444
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 72204080ff99431c912480797fea93b4
+run_name: hilarious-boar-603
+run_uuid: 72204080ff99431c912480797fea93b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865335795
+status: 3
+tags: []
+user_id: klimbelousov

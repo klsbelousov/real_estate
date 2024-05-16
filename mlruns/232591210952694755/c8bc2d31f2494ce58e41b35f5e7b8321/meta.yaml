@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c8bc2d31f2494ce58e41b35f5e7b8321/artifacts
+end_time: 1715865207592
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c8bc2d31f2494ce58e41b35f5e7b8321
+run_name: auspicious-vole-950
+run_uuid: c8bc2d31f2494ce58e41b35f5e7b8321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865206290
+status: 3
+tags: []
+user_id: klimbelousov

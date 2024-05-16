@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c34062403e054d00bbc651a5f706e6ee/artifacts
+end_time: 1715865213548
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c34062403e054d00bbc651a5f706e6ee
+run_name: tasteful-vole-424
+run_uuid: c34062403e054d00bbc651a5f706e6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865211288
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c118b78c02c7479dbad21bf0b86ebaaf/artifacts
+end_time: 1715865696736
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c118b78c02c7479dbad21bf0b86ebaaf
+run_name: righteous-doe-542
+run_uuid: c118b78c02c7479dbad21bf0b86ebaaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865695195
+status: 3
+tags: []
+user_id: klimbelousov

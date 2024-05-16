@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f18b481c496b411289fde12427373e3f/artifacts
+end_time: 1715865289227
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f18b481c496b411289fde12427373e3f
+run_name: smiling-hare-352
+run_uuid: f18b481c496b411289fde12427373e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865287227
+status: 3
+tags: []
+user_id: klimbelousov

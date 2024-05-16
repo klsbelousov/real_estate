@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c99a952090314249b2d6ad578036f893/artifacts
+end_time: 1715865711980
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c99a952090314249b2d6ad578036f893
+run_name: clumsy-crow-861
+run_uuid: c99a952090314249b2d6ad578036f893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865709891
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/035c2c820e9644169450eb4b21307d6b/artifacts
+end_time: 1715865673266
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 035c2c820e9644169450eb4b21307d6b
+run_name: worried-owl-890
+run_uuid: 035c2c820e9644169450eb4b21307d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865672028
+status: 3
+tags: []
+user_id: klimbelousov

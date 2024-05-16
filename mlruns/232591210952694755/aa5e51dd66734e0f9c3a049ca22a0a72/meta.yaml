@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/aa5e51dd66734e0f9c3a049ca22a0a72/artifacts
+end_time: 1715865316495
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: aa5e51dd66734e0f9c3a049ca22a0a72
+run_name: defiant-tern-812
+run_uuid: aa5e51dd66734e0f9c3a049ca22a0a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865314097
+status: 3
+tags: []
+user_id: klimbelousov

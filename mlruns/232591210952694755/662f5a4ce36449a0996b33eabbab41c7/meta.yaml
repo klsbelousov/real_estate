@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/662f5a4ce36449a0996b33eabbab41c7/artifacts
+end_time: 1715866138859
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 662f5a4ce36449a0996b33eabbab41c7
+run_name: agreeable-grub-385
+run_uuid: 662f5a4ce36449a0996b33eabbab41c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866136641
+status: 3
+tags: []
+user_id: klimbelousov

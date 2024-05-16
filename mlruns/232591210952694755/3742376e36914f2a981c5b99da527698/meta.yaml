@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/3742376e36914f2a981c5b99da527698/artifacts
+end_time: 1715866136627
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 3742376e36914f2a981c5b99da527698
+run_name: zealous-fowl-319
+run_uuid: 3742376e36914f2a981c5b99da527698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866133783
+status: 3
+tags: []
+user_id: klimbelousov

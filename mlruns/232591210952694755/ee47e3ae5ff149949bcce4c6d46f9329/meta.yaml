@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ee47e3ae5ff149949bcce4c6d46f9329/artifacts
+end_time: 1715865738104
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ee47e3ae5ff149949bcce4c6d46f9329
+run_name: gregarious-hen-609
+run_uuid: ee47e3ae5ff149949bcce4c6d46f9329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865736050
+status: 3
+tags: []
+user_id: klimbelousov

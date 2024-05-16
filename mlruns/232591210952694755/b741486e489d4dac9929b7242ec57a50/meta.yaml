@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/b741486e489d4dac9929b7242ec57a50/artifacts
+end_time: 1715865205033
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: b741486e489d4dac9929b7242ec57a50
+run_name: classy-bass-904
+run_uuid: b741486e489d4dac9929b7242ec57a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865203977
+status: 3
+tags: []
+user_id: klimbelousov

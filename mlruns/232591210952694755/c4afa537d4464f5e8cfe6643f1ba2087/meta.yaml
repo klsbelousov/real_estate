@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c4afa537d4464f5e8cfe6643f1ba2087/artifacts
+end_time: 1715866453453
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c4afa537d4464f5e8cfe6643f1ba2087
+run_name: bustling-ray-287
+run_uuid: c4afa537d4464f5e8cfe6643f1ba2087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866450860
+status: 3
+tags: []
+user_id: klimbelousov

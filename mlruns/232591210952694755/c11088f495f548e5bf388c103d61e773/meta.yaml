@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c11088f495f548e5bf388c103d61e773/artifacts
+end_time: 1715865730732
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c11088f495f548e5bf388c103d61e773
+run_name: abrasive-dolphin-361
+run_uuid: c11088f495f548e5bf388c103d61e773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865728638
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/7c604184946b45f38e110ecfe37d65f4/artifacts
+end_time: 1715866430212
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 7c604184946b45f38e110ecfe37d65f4
+run_name: loud-skunk-401
+run_uuid: 7c604184946b45f38e110ecfe37d65f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866428004
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/db0fe994c520499db0ba8a08ea4704fc/artifacts
+end_time: 1715866167266
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: db0fe994c520499db0ba8a08ea4704fc
+run_name: receptive-mole-569
+run_uuid: db0fe994c520499db0ba8a08ea4704fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866164220
+status: 3
+tags: []
+user_id: klimbelousov

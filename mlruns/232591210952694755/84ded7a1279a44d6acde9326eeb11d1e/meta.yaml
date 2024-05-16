@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/84ded7a1279a44d6acde9326eeb11d1e/artifacts
+end_time: 1715865693047
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 84ded7a1279a44d6acde9326eeb11d1e
+run_name: placid-pug-890
+run_uuid: 84ded7a1279a44d6acde9326eeb11d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865691027
+status: 3
+tags: []
+user_id: klimbelousov

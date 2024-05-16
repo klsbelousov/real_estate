@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/5e9ca910be8d43828ff3f262c2e283a7/artifacts
+end_time: 1715865374082
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 5e9ca910be8d43828ff3f262c2e283a7
+run_name: efficient-moose-844
+run_uuid: 5e9ca910be8d43828ff3f262c2e283a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865371701
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/79d0a0b7ae654ba3b50a49aaf043c2c2/artifacts
+end_time: 1715865345996
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 79d0a0b7ae654ba3b50a49aaf043c2c2
+run_name: bemused-ant-740
+run_uuid: 79d0a0b7ae654ba3b50a49aaf043c2c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865345054
+status: 3
+tags: []
+user_id: klimbelousov

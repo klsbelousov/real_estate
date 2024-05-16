@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/dd38966dc7f9402c8112373121a3d3fb/artifacts
+end_time: 1715865201573
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: dd38966dc7f9402c8112373121a3d3fb
+run_name: mysterious-dog-387
+run_uuid: dd38966dc7f9402c8112373121a3d3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865200869
+status: 3
+tags: []
+user_id: klimbelousov

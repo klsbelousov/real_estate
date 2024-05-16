@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ef329f04f29943adbe2bb6223abc546f/artifacts
+end_time: 1715866472607
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ef329f04f29943adbe2bb6223abc546f
+run_name: tasteful-chimp-658
+run_uuid: ef329f04f29943adbe2bb6223abc546f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866470020
+status: 3
+tags: []
+user_id: klimbelousov

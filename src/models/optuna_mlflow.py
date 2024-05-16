@@ -11,9 +11,11 @@ def objective(trial):
         # Define hyperparameters
         params = {
             "criterion": "squared_error",
-            "n_estimators": trial.suggest_int("n_estimators", 100, 400),
-            "min_samples_leaf": trial.suggest_int("min_samples_leaf", 2, 6),
-            "min_samples_split": trial.suggest_int("min_samples_split", 2, 6),
+            "n_estimators": trial.suggest_int("n_estimators", 200, 500),
+            "max_depth": trial.suggest_int("max_depth", 20, 70),
+            "min_samples_leaf": 2,
+            "min_samples_split": 2,
+            "random_state": 52,
             'n_jobs': -1,
         }
 
@@ -37,12 +39,10 @@ def objective(trial):
         mlflow.log_metric("mape", error)
 
     
-    return error
 
+    return error
 study = optuna.create_study(direction="minimize")
 # Execute the hyperparameter optimization trials.
 # Note the addition of the `champion_callback` inclusion to control our logging
-study.optimize(objective, n_trials=100)
-
-if __name__ == '__main__':
-    objective()
+study.optimize(objective, n_trials=30)
+print(study.best_params)

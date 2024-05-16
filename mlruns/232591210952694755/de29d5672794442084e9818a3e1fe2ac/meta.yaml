@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/de29d5672794442084e9818a3e1fe2ac/artifacts
+end_time: 1715865342366
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: de29d5672794442084e9818a3e1fe2ac
+run_name: likeable-boar-560
+run_uuid: de29d5672794442084e9818a3e1fe2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865339907
+status: 3
+tags: []
+user_id: klimbelousov

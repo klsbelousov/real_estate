@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/82e2206386744ad1996eba582a7d466e/artifacts
+end_time: 1715866201776
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 82e2206386744ad1996eba582a7d466e
+run_name: entertaining-koi-866
+run_uuid: 82e2206386744ad1996eba582a7d466e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866198928
+status: 3
+tags: []
+user_id: klimbelousov

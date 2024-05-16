@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/1e2f66d5b5e945f7a273a6244f9e5bfd/artifacts
+end_time: 1715865277290
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 1e2f66d5b5e945f7a273a6244f9e5bfd
+run_name: bouncy-sow-326
+run_uuid: 1e2f66d5b5e945f7a273a6244f9e5bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865274944
+status: 3
+tags: []
+user_id: klimbelousov

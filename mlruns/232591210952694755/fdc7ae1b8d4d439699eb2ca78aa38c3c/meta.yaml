@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/fdc7ae1b8d4d439699eb2ca78aa38c3c/artifacts
+end_time: 1715866108818
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: fdc7ae1b8d4d439699eb2ca78aa38c3c
+run_name: trusting-stork-649
+run_uuid: fdc7ae1b8d4d439699eb2ca78aa38c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866106458
+status: 3
+tags: []
+user_id: klimbelousov

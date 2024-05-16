@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/77659d7b26c24001b21029bb73798633/artifacts
+end_time: 1715865302609
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 77659d7b26c24001b21029bb73798633
+run_name: suave-slug-313
+run_uuid: 77659d7b26c24001b21029bb73798633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865300321
+status: 3
+tags: []
+user_id: klimbelousov

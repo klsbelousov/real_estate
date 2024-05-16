@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/cb1fb62575034e2cb4f2bb1c5c93c966/artifacts
+end_time: 1715865916394
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: cb1fb62575034e2cb4f2bb1c5c93c966
+run_name: big-smelt-584
+run_uuid: cb1fb62575034e2cb4f2bb1c5c93c966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865914718
+status: 4
+tags: []
+user_id: klimbelousov

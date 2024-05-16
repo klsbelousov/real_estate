@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/ce2118b16e9c494fb98e01c7771eea6d/artifacts
+end_time: 1715866158621
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: ce2118b16e9c494fb98e01c7771eea6d
+run_name: suave-koi-424
+run_uuid: ce2118b16e9c494fb98e01c7771eea6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866155908
+status: 3
+tags: []
+user_id: klimbelousov

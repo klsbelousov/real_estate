@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/b66b1caf54a34093b25b6d236b9f350b/artifacts
+end_time: 1715865385703
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: b66b1caf54a34093b25b6d236b9f350b
+run_name: beautiful-fly-129
+run_uuid: b66b1caf54a34093b25b6d236b9f350b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865383213
+status: 3
+tags: []
+user_id: klimbelousov

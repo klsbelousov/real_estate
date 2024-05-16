@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0cdea4dc8efc4e1f846c43293e31a8fe/artifacts
+end_time: 1715865364182
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0cdea4dc8efc4e1f846c43293e31a8fe
+run_name: able-bass-180
+run_uuid: 0cdea4dc8efc4e1f846c43293e31a8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865361733
+status: 3
+tags: []
+user_id: klimbelousov

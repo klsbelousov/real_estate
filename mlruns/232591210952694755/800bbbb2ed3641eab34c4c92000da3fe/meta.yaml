@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/800bbbb2ed3641eab34c4c92000da3fe/artifacts
+end_time: 1715865352339
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 800bbbb2ed3641eab34c4c92000da3fe
+run_name: melodic-carp-295
+run_uuid: 800bbbb2ed3641eab34c4c92000da3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865350882
+status: 3
+tags: []
+user_id: klimbelousov

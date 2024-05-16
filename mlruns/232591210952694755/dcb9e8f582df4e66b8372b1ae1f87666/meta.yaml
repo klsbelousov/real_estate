@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/dcb9e8f582df4e66b8372b1ae1f87666/artifacts
+end_time: 1715865726372
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: dcb9e8f582df4e66b8372b1ae1f87666
+run_name: rare-duck-483
+run_uuid: dcb9e8f582df4e66b8372b1ae1f87666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865724345
+status: 3
+tags: []
+user_id: klimbelousov

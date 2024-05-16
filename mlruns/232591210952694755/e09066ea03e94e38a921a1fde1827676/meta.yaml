@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/e09066ea03e94e38a921a1fde1827676/artifacts
+end_time: 1715866082441
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: e09066ea03e94e38a921a1fde1827676
+run_name: placid-sheep-326
+run_uuid: e09066ea03e94e38a921a1fde1827676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866080012
+status: 3
+tags: []
+user_id: klimbelousov

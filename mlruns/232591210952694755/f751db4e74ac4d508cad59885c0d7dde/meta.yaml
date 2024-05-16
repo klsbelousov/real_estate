@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f751db4e74ac4d508cad59885c0d7dde/artifacts
+end_time: 1715866091701
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f751db4e74ac4d508cad59885c0d7dde
+run_name: luminous-snake-325
+run_uuid: f751db4e74ac4d508cad59885c0d7dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866090170
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/aa80bc9cde084c7a9f16e4dba6dd4745/artifacts
+end_time: 1715865402142
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: aa80bc9cde084c7a9f16e4dba6dd4745
+run_name: fortunate-pig-771
+run_uuid: aa80bc9cde084c7a9f16e4dba6dd4745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865399749
+status: 3
+tags: []
+user_id: klimbelousov

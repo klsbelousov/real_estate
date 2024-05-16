@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/56ac9aec95fa4a429efdb0bb8164f19c/artifacts
+end_time: 1715865686556
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 56ac9aec95fa4a429efdb0bb8164f19c
+run_name: vaunted-croc-63
+run_uuid: 56ac9aec95fa4a429efdb0bb8164f19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865684838
+status: 3
+tags: []
+user_id: klimbelousov

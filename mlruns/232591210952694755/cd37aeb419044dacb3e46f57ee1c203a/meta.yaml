@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/cd37aeb419044dacb3e46f57ee1c203a/artifacts
+end_time: 1715865240958
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: cd37aeb419044dacb3e46f57ee1c203a
+run_name: adaptable-gull-878
+run_uuid: cd37aeb419044dacb3e46f57ee1c203a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865239240
+status: 3
+tags: []
+user_id: klimbelousov

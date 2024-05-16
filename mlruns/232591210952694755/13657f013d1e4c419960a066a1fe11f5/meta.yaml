@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/13657f013d1e4c419960a066a1fe11f5/artifacts
+end_time: 1715866477964
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 13657f013d1e4c419960a066a1fe11f5
+run_name: rebellious-gnat-491
+run_uuid: 13657f013d1e4c419960a066a1fe11f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866475417
+status: 3
+tags: []
+user_id: klimbelousov

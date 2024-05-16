@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a443a63430c74c38925f54a6f08facdc/artifacts
+end_time: 1715866434368
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a443a63430c74c38925f54a6f08facdc
+run_name: wise-stag-829
+run_uuid: a443a63430c74c38925f54a6f08facdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866432907
+status: 3
+tags: []
+user_id: klimbelousov

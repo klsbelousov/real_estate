@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/4f455ffd850c4706a081bc673eb72961/artifacts
+end_time: 1715865376630
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 4f455ffd850c4706a081bc673eb72961
+run_name: bright-shoat-283
+run_uuid: 4f455ffd850c4706a081bc673eb72961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865374095
+status: 3
+tags: []
+user_id: klimbelousov

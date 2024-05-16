@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/080714c8fe9b49dd9a2757d9496c94f8/artifacts
+end_time: 1715865675632
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 080714c8fe9b49dd9a2757d9496c94f8
+run_name: unique-toad-297
+run_uuid: 080714c8fe9b49dd9a2757d9496c94f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865673279
+status: 3
+tags: []
+user_id: klimbelousov

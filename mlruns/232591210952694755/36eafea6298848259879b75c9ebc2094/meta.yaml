@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/36eafea6298848259879b75c9ebc2094/artifacts
+end_time: 1715865386915
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 36eafea6298848259879b75c9ebc2094
+run_name: auspicious-smelt-809
+run_uuid: 36eafea6298848259879b75c9ebc2094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865385718
+status: 3
+tags: []
+user_id: klimbelousov

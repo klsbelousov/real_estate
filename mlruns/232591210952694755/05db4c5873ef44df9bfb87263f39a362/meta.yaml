@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/05db4c5873ef44df9bfb87263f39a362/artifacts
+end_time: 1715866190163
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 05db4c5873ef44df9bfb87263f39a362
+run_name: invincible-zebra-28
+run_uuid: 05db4c5873ef44df9bfb87263f39a362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866187521
+status: 3
+tags: []
+user_id: klimbelousov

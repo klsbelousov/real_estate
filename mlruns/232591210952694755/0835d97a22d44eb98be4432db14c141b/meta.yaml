@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0835d97a22d44eb98be4432db14c141b/artifacts
+end_time: 1715865304965
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0835d97a22d44eb98be4432db14c141b
+run_name: salty-dog-962
+run_uuid: 0835d97a22d44eb98be4432db14c141b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865302622
+status: 3
+tags: []
+user_id: klimbelousov

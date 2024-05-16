@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/4628d11b339348e5af8c258d76788bdb/artifacts
+end_time: 1715866480791
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 4628d11b339348e5af8c258d76788bdb
+run_name: persistent-mole-641
+run_uuid: 4628d11b339348e5af8c258d76788bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866477979
+status: 3
+tags: []
+user_id: klimbelousov

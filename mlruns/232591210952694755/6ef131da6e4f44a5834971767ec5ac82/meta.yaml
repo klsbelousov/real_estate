@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6ef131da6e4f44a5834971767ec5ac82/artifacts
+end_time: 1715866125808
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6ef131da6e4f44a5834971767ec5ac82
+run_name: sincere-gnu-384
+run_uuid: 6ef131da6e4f44a5834971767ec5ac82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866123263
+status: 3
+tags: []
+user_id: klimbelousov

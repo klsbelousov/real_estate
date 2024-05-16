@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f5587439fb39443aa6e044f97f2bb0e0/artifacts
+end_time: 1715865706971
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f5587439fb39443aa6e044f97f2bb0e0
+run_name: defiant-swan-265
+run_uuid: f5587439fb39443aa6e044f97f2bb0e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865703866
+status: 3
+tags: []
+user_id: klimbelousov

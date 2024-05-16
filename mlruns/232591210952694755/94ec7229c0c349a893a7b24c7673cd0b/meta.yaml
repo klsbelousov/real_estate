@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/94ec7229c0c349a893a7b24c7673cd0b/artifacts
+end_time: 1715865210242
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 94ec7229c0c349a893a7b24c7673cd0b
+run_name: wise-colt-325
+run_uuid: 94ec7229c0c349a893a7b24c7673cd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865208124
+status: 3
+tags: []
+user_id: klimbelousov

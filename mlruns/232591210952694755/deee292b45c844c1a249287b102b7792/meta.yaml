@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/deee292b45c844c1a249287b102b7792/artifacts
+end_time: 1715865221253
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: deee292b45c844c1a249287b102b7792
+run_name: delightful-skink-457
+run_uuid: deee292b45c844c1a249287b102b7792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865219345
+status: 3
+tags: []
+user_id: klimbelousov

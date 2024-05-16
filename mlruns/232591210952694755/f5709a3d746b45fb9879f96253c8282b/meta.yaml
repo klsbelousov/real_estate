@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f5709a3d746b45fb9879f96253c8282b/artifacts
+end_time: 1715865319073
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f5709a3d746b45fb9879f96253c8282b
+run_name: intelligent-newt-312
+run_uuid: f5709a3d746b45fb9879f96253c8282b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865316509
+status: 3
+tags: []
+user_id: klimbelousov

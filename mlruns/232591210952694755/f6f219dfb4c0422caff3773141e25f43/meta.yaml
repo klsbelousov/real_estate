@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f6f219dfb4c0422caff3773141e25f43/artifacts
+end_time: 1715865233055
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f6f219dfb4c0422caff3773141e25f43
+run_name: dazzling-skink-71
+run_uuid: f6f219dfb4c0422caff3773141e25f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865231179
+status: 3
+tags: []
+user_id: klimbelousov

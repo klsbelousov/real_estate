@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/bd68d5f6c7f444538a760dcc5fd1cf73/artifacts
+end_time: 1715866152943
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: bd68d5f6c7f444538a760dcc5fd1cf73
+run_name: flawless-ram-815
+run_uuid: bd68d5f6c7f444538a760dcc5fd1cf73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866150144
+status: 3
+tags: []
+user_id: klimbelousov

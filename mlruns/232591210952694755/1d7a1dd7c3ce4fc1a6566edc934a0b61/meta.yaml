@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/1d7a1dd7c3ce4fc1a6566edc934a0b61/artifacts
+end_time: 1715865691016
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 1d7a1dd7c3ce4fc1a6566edc934a0b61
+run_name: ambitious-robin-891
+run_uuid: 1d7a1dd7c3ce4fc1a6566edc934a0b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865688696
+status: 3
+tags: []
+user_id: klimbelousov

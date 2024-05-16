@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/c475218dcb7d4edabc48ab76e3d57320/artifacts
+end_time: 1715866491270
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: c475218dcb7d4edabc48ab76e3d57320
+run_name: trusting-dolphin-74
+run_uuid: c475218dcb7d4edabc48ab76e3d57320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866488697
+status: 3
+tags: []
+user_id: klimbelousov

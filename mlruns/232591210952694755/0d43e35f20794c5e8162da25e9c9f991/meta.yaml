@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/0d43e35f20794c5e8162da25e9c9f991/artifacts
+end_time: 1715865335782
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 0d43e35f20794c5e8162da25e9c9f991
+run_name: puzzled-asp-606
+run_uuid: 0d43e35f20794c5e8162da25e9c9f991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865333206
+status: 3
+tags: []
+user_id: klimbelousov

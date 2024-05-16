@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a07e3150b4bb41069c6e42f978ebb60f/artifacts
+end_time: 1715865669104
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a07e3150b4bb41069c6e42f978ebb60f
+run_name: bright-ray-268
+run_uuid: a07e3150b4bb41069c6e42f978ebb60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865667280
+status: 3
+tags: []
+user_id: klimbelousov

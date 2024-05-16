@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/291352f20e2c480781b438e9f7ae9398/artifacts
+end_time: 1715865672017
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 291352f20e2c480781b438e9f7ae9398
+run_name: secretive-loon-287
+run_uuid: 291352f20e2c480781b438e9f7ae9398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865671120
+status: 3
+tags: []
+user_id: klimbelousov

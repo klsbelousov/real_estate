@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/a491f04148c74d2c9e5b000a88164b2c/artifacts
+end_time: 1715866086255
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: a491f04148c74d2c9e5b000a88164b2c
+run_name: big-newt-864
+run_uuid: a491f04148c74d2c9e5b000a88164b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866084431
+status: 3
+tags: []
+user_id: klimbelousov

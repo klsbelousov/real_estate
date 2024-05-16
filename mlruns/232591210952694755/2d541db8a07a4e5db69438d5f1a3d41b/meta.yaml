@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/2d541db8a07a4e5db69438d5f1a3d41b/artifacts
+end_time: 1715865239229
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 2d541db8a07a4e5db69438d5f1a3d41b
+run_name: flawless-crow-704
+run_uuid: 2d541db8a07a4e5db69438d5f1a3d41b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865237205
+status: 3
+tags: []
+user_id: klimbelousov

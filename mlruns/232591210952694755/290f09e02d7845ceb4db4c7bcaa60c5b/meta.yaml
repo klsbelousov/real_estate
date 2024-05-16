@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/290f09e02d7845ceb4db4c7bcaa60c5b/artifacts
+end_time: 1715866106442
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 290f09e02d7845ceb4db4c7bcaa60c5b
+run_name: suave-croc-382
+run_uuid: 290f09e02d7845ceb4db4c7bcaa60c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866103694
+status: 3
+tags: []
+user_id: klimbelousov

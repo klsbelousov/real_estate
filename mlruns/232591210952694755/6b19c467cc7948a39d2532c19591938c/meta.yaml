@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/6b19c467cc7948a39d2532c19591938c/artifacts
+end_time: 1715866090157
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 6b19c467cc7948a39d2532c19591938c
+run_name: wise-robin-268
+run_uuid: 6b19c467cc7948a39d2532c19591938c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866087546
+status: 3
+tags: []
+user_id: klimbelousov

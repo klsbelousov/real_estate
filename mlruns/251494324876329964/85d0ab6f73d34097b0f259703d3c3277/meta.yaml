@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/251494324876329964/85d0ab6f73d34097b0f259703d3c3277/artifacts
+end_time: 1715866849908
+entry_point_name: ''
+experiment_id: '251494324876329964'
+lifecycle_stage: active
+run_id: 85d0ab6f73d34097b0f259703d3c3277
+run_name: judicious-ray-712
+run_uuid: 85d0ab6f73d34097b0f259703d3c3277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866843165
+status: 3
+tags: []
+user_id: klimbelousov

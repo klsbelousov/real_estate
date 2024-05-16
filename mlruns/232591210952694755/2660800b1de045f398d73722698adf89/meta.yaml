@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/2660800b1de045f398d73722698adf89/artifacts
+end_time: 1715866118311
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 2660800b1de045f398d73722698adf89
+run_name: spiffy-rook-235
+run_uuid: 2660800b1de045f398d73722698adf89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866115809
+status: 3
+tags: []
+user_id: klimbelousov

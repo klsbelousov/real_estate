@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/12325662617f489b81da0241be570d68/artifacts
+end_time: 1715865716096
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 12325662617f489b81da0241be570d68
+run_name: learned-carp-216
+run_uuid: 12325662617f489b81da0241be570d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865713634
+status: 3
+tags: []
+user_id: klimbelousov

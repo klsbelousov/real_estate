@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/598b282923504027b856ddbfa015ce1b/artifacts
+end_time: 1715865728623
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 598b282923504027b856ddbfa015ce1b
+run_name: abrasive-shark-62
+run_uuid: 598b282923504027b856ddbfa015ce1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865726387
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/251ca6611ed44eb9a37dd7bffed9b926/artifacts
+end_time: 1715866179895
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 251ca6611ed44eb9a37dd7bffed9b926
+run_name: tasteful-bird-356
+run_uuid: 251ca6611ed44eb9a37dd7bffed9b926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866177001
+status: 3
+tags: []
+user_id: klimbelousov

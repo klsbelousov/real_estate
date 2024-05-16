@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/f8e5dfdb927a4003bf7940b8a19256af/artifacts
+end_time: 1715865328653
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: f8e5dfdb927a4003bf7940b8a19256af
+run_name: fun-doe-242
+run_uuid: f8e5dfdb927a4003bf7940b8a19256af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865326371
+status: 3
+tags: []
+user_id: klimbelousov

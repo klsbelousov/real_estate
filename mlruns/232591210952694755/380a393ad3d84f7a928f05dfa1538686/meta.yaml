@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/380a393ad3d84f7a928f05dfa1538686/artifacts
+end_time: 1715865703852
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 380a393ad3d84f7a928f05dfa1538686
+run_name: victorious-goose-723
+run_uuid: 380a393ad3d84f7a928f05dfa1538686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865701432
+status: 3
+tags: []
+user_id: klimbelousov

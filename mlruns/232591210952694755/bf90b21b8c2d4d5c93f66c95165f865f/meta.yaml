@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/bf90b21b8c2d4d5c93f66c95165f865f/artifacts
+end_time: 1715865311741
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: bf90b21b8c2d4d5c93f66c95165f865f
+run_name: marvelous-bat-278
+run_uuid: bf90b21b8c2d4d5c93f66c95165f865f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865309575
+status: 3
+tags: []
+user_id: klimbelousov

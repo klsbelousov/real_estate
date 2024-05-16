@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/96b24f5209154e9bac6514eadd43760a/artifacts
+end_time: 1715865284798
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 96b24f5209154e9bac6514eadd43760a
+run_name: auspicious-lamb-798
+run_uuid: 96b24f5209154e9bac6514eadd43760a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865282626
+status: 3
+tags: []
+user_id: klimbelousov

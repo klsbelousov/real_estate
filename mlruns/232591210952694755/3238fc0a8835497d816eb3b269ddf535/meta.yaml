@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/3238fc0a8835497d816eb3b269ddf535/artifacts
+end_time: 1715865242852
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 3238fc0a8835497d816eb3b269ddf535
+run_name: sincere-crab-390
+run_uuid: 3238fc0a8835497d816eb3b269ddf535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715865240967
+status: 3
+tags: []
+user_id: klimbelousov

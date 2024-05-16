@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/232591210952694755/8e327125b9a34efeb9dc281a0eeed5ab/artifacts
+end_time: 1715866172893
+entry_point_name: ''
+experiment_id: '232591210952694755'
+lifecycle_stage: active
+run_id: 8e327125b9a34efeb9dc281a0eeed5ab
+run_name: merciful-cub-482
+run_uuid: 8e327125b9a34efeb9dc281a0eeed5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715866169984
+status: 3
+tags: []
+user_id: klimbelousov
