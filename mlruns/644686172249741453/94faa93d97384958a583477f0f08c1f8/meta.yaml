@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/644686172249741453/94faa93d97384958a583477f0f08c1f8/artifacts
+end_time: 1715857456446
+entry_point_name: ''
+experiment_id: '644686172249741453'
+lifecycle_stage: active
+run_id: 94faa93d97384958a583477f0f08c1f8
+run_name: aged-tern-684
+run_uuid: 94faa93d97384958a583477f0f08c1f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715857450082
+status: 3
+tags: []
+user_id: klimbelousov

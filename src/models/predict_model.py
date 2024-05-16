@@ -1,6 +1,7 @@
 import os
-
 import pickle
+
+import mlflow
 import pandas as pd
 from sklearn.metrics import mean_absolute_percentage_error, mean_absolute_error, mean_squared_error
 
@@ -32,4 +33,7 @@ def baseline_prediction(model: os.path):
     return y_pred, mae, mse, mape
 
 if __name__ == '__main__':
-    baseline_prediction('/Users/klimbelousov/Documents/Projects/real_estate/models/baseline_model.pkl')
+    mlflow.set_experiment('sklearn2')
+    mlflow.sklearn.autolog()
+    with mlflow.start_run():
+        baseline_prediction('/Users/klimbelousov/Documents/Projects/real_estate/models/baseline_model.pkl')

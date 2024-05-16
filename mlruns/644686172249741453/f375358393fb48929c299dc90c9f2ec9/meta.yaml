@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/644686172249741453/f375358393fb48929c299dc90c9f2ec9/artifacts
+end_time: 1715858044063
+entry_point_name: ''
+experiment_id: '644686172249741453'
+lifecycle_stage: active
+run_id: f375358393fb48929c299dc90c9f2ec9
+run_name: peaceful-frog-968
+run_uuid: f375358393fb48929c299dc90c9f2ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715858038995
+status: 3
+tags: []
+user_id: klimbelousov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/klimbelousov/Documents/Projects/real_estate/mlruns/644686172249741453/e75df5b0f387442fbdec1e5787579b6d/artifacts
+end_time: 1715857943572
+entry_point_name: ''
+experiment_id: '644686172249741453'
+lifecycle_stage: active
+run_id: e75df5b0f387442fbdec1e5787579b6d
+run_name: kindly-whale-642
+run_uuid: e75df5b0f387442fbdec1e5787579b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715857938685
+status: 3
+tags: []
+user_id: klimbelousov
